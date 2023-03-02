@@ -1,0 +1,93 @@
+.container img{
+    float:right;
+    width: 40%;
+    /* height: 90%; */
+    border-radius: 20px;
+    /* padding-bottom: 50px; */
+    margin-top: -300px;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: x-large;
+    padding: 25px 25px;
+}
+.button{
+
+    padding: 10px  15px;
+    margin-left: 5%;
+    margin-top: 4%;
+
+   
+ 
+
+
+}
+#hello{
+   
+    /* padding: 20px  35px; */
+    margin-left: 60px;
+    /* margin-bottom: 3%;
+    border-radius: 20px; */
+    /* margin-top: 2%;
+  */
+margin-top:25px ;
+
+}
+#main{
+    display: flex;
+}
+#pupil{
+    /* display: flex; */
+    background-color: rgb(166, 166, 194);
+    border-radius: 20%;
+    width: 20%;
+    align-items: center;
+
+
+
+    /* padding: 20px  35px; */
+    margin-left: 60px;
+    margin-top: 2%;}
+    /* border-radius: 50px; */
+   /* justify-content: flex-end; */
+/* 
+    border: none;
+    color: aliceblue; 
+    
+
+} */
+
+#B{
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+/* #set{
+
+    padding: 10px;
+    border-radius: 30%;
+
+} */
+#G{
+    padding-left: 20px;
+}
+#H{
+    padding-left: 20%;
+}
+#student{
+    border-radius: 20%;
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color: cornflowerblue;
+    align-items: center;
+}
+
+#P{
+    text-align: center;
+   
+}
+#S{
+    text-align: center;
+}
